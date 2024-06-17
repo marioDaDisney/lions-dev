@@ -1,0 +1,1 @@
+// O código está pegando os números pares do array e somando eles.
