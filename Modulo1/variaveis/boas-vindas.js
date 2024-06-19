@@ -7,3 +7,4 @@ process.stdin.on('data', function(data) {
     console.log(saudacao)
     process.exit();
 })
+console.log("oi")
